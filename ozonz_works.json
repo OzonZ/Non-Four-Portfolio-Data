@@ -1,0 +1,216 @@
+[
+    {
+        "aiSummary": "Under development",
+        "date": "2026-06-11T15:28:09.373Z",
+        "team": [],
+        "tags": [
+            "Renpy",
+            "2D Artist"
+        ],
+        "tools": [],
+        "name": "I Swore Never to Love Again",
+        "desc": "W.I.P",
+        "cat": "ozonz",
+        "subcat": "",
+        "links": [],
+        "id": 1781191689373,
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781267182721_ozonz.png"
+    },
+    {
+        "team": [],
+        "date": "2026-06-12T12:12:18.839Z",
+        "aiSummary": "Manipulate pictures. Turning the weather. All for the perfected Breakfast.",
+        "id": 1781266338839,
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781266335620_ozonz.png",
+        "cat": "ozonz",
+        "desc": "A Picturesque Breakfast is a cozy game that you manipulate the weathers through pictures inside your house. Only by persepective you can transform the sunny sky to thunderous rain only by your line of sight. This is our interpertation of the theme \"Shifting Reality\"\nThe game features four different weather states. Sunny-Rainy,Breezy-Windy All your changes is detrimental to solving this breakfast\n\nyour goal is to assemble a full english breakfast. But to access some of the ingridient you must change the weather to the fitting harvest.\n\nNo enemy nor stress just you and an overtly round chicken in an atmospheric farmworld\n\nIn the end could you assemble the full breakfast?",
+        "name": "A picturesque breakfast",
+        "tools": [],
+        "tags": [
+            "Cozy Jam 2026",
+            "2D Artist",
+            "UI",
+            "Game Developer"
+        ],
+        "links": [
+            {
+                "url": "https://roboticscool01gmailcom.itch.io/a-picturesque",
+                "label": "Play on Itch.io"
+            }
+        ],
+        "subcat": ""
+    },
+    {
+        "subcat": "",
+        "links": [
+            {
+                "label": "Discord Bot",
+                "url": "https://discord.com/oauth2/authorize?client_id=1462349177144217620"
+            }
+        ],
+        "tags": [
+            "PYTHON",
+            "GITHUB"
+        ],
+        "tools": [],
+        "cat": "ozonz",
+        "desc": "Developed a Python Discord bot that accurately tracks user playtime in voice channels, providing engaging statistics and fostering community interaction. Explore the codebase on GitHub.",
+        "name": "Discord Playtime Bot",
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781260976906_ozonz.png",
+        "id": 1781259952734,
+        "aiSummary": "Discord voice playtime stats, community engagement.",
+        "date": "2026-06-12T10:25:52.735Z",
+        "team": []
+    },
+    {
+        "aiSummary": "Streamlined Camp Management: Register, Schedule, Track",
+        "team": [],
+        "date": "2026-06-12T10:40:17.752Z",
+        "name": "Camp System",
+        "desc": "This dynamic Camp System streamlines registration, scheduling, and participant management for efficient camp operations. Built with JavaScript, it offers a robust and intuitive platform for administrators.",
+        "cat": "ozonz",
+        "tools": [],
+        "tags": [
+            "JAVASCRIPT",
+            "GITHUB",
+            "Website"
+        ],
+        "links": [
+            {
+                "url": "https://ozonz.github.io/camp-system/login.html",
+                "label": "Website"
+            }
+        ],
+        "subcat": "",
+        "id": 1781260817752,
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781260842236_ozonz.png"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781265826779_ozonz.png",
+        "links": [
+            {
+                "label": "Play on Itch.io",
+                "url": "https://pigisclean.itch.io/bug-is-here"
+            }
+        ],
+        "desc": "You are a security system that will protect data from a company with game challenges, will you be able to protect it from viruses and Bugs?\n\n\nMember:\nChanon Thongduang - Main Coding, Artist, Producer\nSattawut Rodsaka  - Artist, Modeling, Story\nArthit Kasemsai - Game Logic Designer, Story\nThanakrit Feemuedee - Sounds, Music, Background, Design, Artist",
+        "name": "Bug Is Here by PIC",
+        "cat": "ozonz",
+        "tags": [
+            "ITCH.IO"
+        ],
+        "team": [],
+        "date": "2026-06-12T12:03:49.095Z",
+        "aiSummary": "Security game protects data from viruses and bugs",
+        "id": 1781265829095,
+        "subcat": "",
+        "year": "2025",
+        "tools": []
+    },
+    {
+        "date": "2026-06-12T11:44:40.139Z",
+        "team": [],
+        "aiSummary": "Track shop income/expenses for clear insights.",
+        "id": 1781264680139,
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781265547373_ozonz.png",
+        "tags": [
+            "TYPESCRIPT",
+            "GITHUB"
+        ],
+        "tools": [],
+        "cat": "ozonz",
+        "desc": "This TypeScript application empowers shop owners to efficiently track income and expenses, gaining clear financial insights. Its robust codebase is readily available on GitHub.",
+        "name": "Shop Income Tracker",
+        "subcat": "",
+        "links": [
+            {
+                "label": "Website",
+                "url": "https://project-urara.web.app/login"
+            }
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781266022431_ozonz.png",
+        "id": 1781266025546,
+        "subcat": "",
+        "links": [
+            {
+                "url": "https://roboticscool01gmailcom.itch.io/icy-delight",
+                "label": "Play on Itch.io"
+            }
+        ],
+        "tags": [
+            "ITCH.IO",
+            "2D Artist",
+            "Game Developer"
+        ],
+        "tools": [],
+        "cat": "ozonz",
+        "desc": "Icy Delight is a fast-paced action game where you play as an ice cream vendor in the middle of a scorching summer. People are collapsing from extreme heat, and it’s your job to save them by throwing ice cream to cool them down! \n\nGameplay Run around the map and help overheated civilians before it’s too late. Throw ice cream to reduce their heat and keep them alive, while avoiding enemies that make things even worse. But be careful even you are affected by the heat.\n\nHeat System Your character has a heat level: Throwing ice cream increases your heat Getting hit by enemies increases your heat even more \n\nIf your heat gets too high, you’ll be in danger You must manage your actions carefully to survive and save others.",
+        "name": "Icy delight",
+        "date": "2026-06-12T12:07:05.546Z",
+        "team": [],
+        "aiSummary": "Ice cream action: save heat-struck, manage your cool."
+    },
+    {
+        "tags": [
+            "Hamster Hub",
+            "2D Artist",
+            "GameJamX"
+        ],
+        "tools": [],
+        "name": "Non Lea",
+        "desc": "What if you are the guy who has Heatstroke ,having only 2 minutes to live, but he imagine that he is hero who needs to lick citizens to safe them from the heat before he dies ?\n\nControls:\n\nMovement : hold click , to summon your tongue ,then rotate your mouse to move around the city (if you found rocks or garbage, hold and move your mouse backward)\nLick mode : press F\n\nRefill water : press E + hold your mouse on water machines/water pillar",
+        "cat": "ozonz",
+        "subcat": "",
+        "links": [
+            {
+                "label": "Play on Itch.io",
+                "url": "https://aimuanginwza007.itch.io/non-leah-licking-to-save-the-world"
+            }
+        ],
+        "id": 1781266161901,
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781266159335_ozonz.png",
+        "aiSummary": "Lick Them All",
+        "date": "2026-06-12T12:09:21.901Z",
+        "team": []
+    },
+    {
+        "team": [],
+        "date": "2026-06-12T12:13:53.153Z",
+        "aiSummary": "3 lanes: Switch between lanes to avoid obstacles.",
+        "image": "https://raw.githubusercontent.com/Aritsiaserlet/aritsiaserlet/main/works/1781266430758_ozonz.png",
+        "id": 1781266433153,
+        "links": [
+            {
+                "label": "Play on Itch.io",
+                "url": "https://ozonz1.itch.io/dear-sieng"
+            }
+        ],
+        "subcat": "",
+        "name": "Dear Sieng",
+        "desc": "A 3-lane endless runner inspired by Subway Surfers—except you’re driving an F1 car. Dodge obstacles, switch lanes, and try to survive as long as possible while Mr.X (a giant “P’Aui”) chases you down.\n\nYou can press E to look back and see how close the giant is… but looking back might cost you your focus.",
+        "cat": "ozonz",
+        "tools": [],
+        "tags": [
+            "ITCH.IO"
+        ]
+    },
+    {
+        "id": 1781284560549,
+        "name": "ฟหก",
+        "cat": "ozonz",
+        "subcat": "",
+        "desc": "ฟหก",
+        "year": "",
+        "aiSummary": "ฟหก",
+        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781284557407_ozonz.png",
+        "tags": [
+            "ฟหก"
+        ],
+        "links": [],
+        "team": [],
+        "tools": [],
+        "date": "2026-06-12T17:16:00.549Z"
+    }
+]
