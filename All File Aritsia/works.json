@@ -131,5 +131,33 @@
       "icon_1781288108431"
     ],
     "date": "2026-06-12T18:49:33.643Z"
+  },
+  {
+    "id": 1781290228307,
+    "name": "TaCZ Runtime Compat",
+    "cat": "mod",
+    "subcat": "other",
+    "desc": "Fixes custom TaCZ gun packs so they work properly in large modpacks without crashing.",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/tacz_runtime_compat_1781290225858_0.png",
+    "model": null,
+    "links": [
+      {
+        "url": "https://modrinth.com/mod/tacz-runtime-compat",
+        "iconId": "icon_1781288096980",
+        "label": "Modrinth"
+      },
+      {
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tacz-runtime-compat",
+        "iconId": "icon_1781288108431",
+        "label": "Curseforge"
+      }
+    ],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288096980",
+      "icon_1781288108431"
+    ],
+    "date": "2026-06-12T18:50:28.307Z"
   }
 ]
