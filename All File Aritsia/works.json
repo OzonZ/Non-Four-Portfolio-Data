@@ -72,5 +72,36 @@
       "icon_1781289936906"
     ],
     "date": "2026-06-12T18:45:02.781Z"
+  },
+  {
+    "id": 1781290053979,
+    "name": "A Picturesque breakfast",
+    "cat": "game",
+    "subcat": "puzzle",
+    "desc": "A Picturesque Breakfast is a cozy game that you manipulate the weathers through pictures inside your house. Only by persepective you can transform the sunny sky to thunderous rain only by your line of sight. This is our interpertation of the theme \"Shifting Reality\"\nThe game features four different weather states. Sunny-Rainy,Breezy-Windy All your changes is detrimental to solving this breakfast\n\nyour goal is to assemble a full english breakfast. But to access some of the ingridient you must change the weather to the fitting harvest.\n\nNo enemy nor stress just you and an overtly round chicken in an atmospheric farmworld\n\nIn the end could you assemble the full breakfast?",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/a_picturesque_breakfast_1781290039698_0.png",
+    "model": null,
+    "links": [
+      {
+        "url": "https://roboticscool01gmailcom.itch.io/a-picturesque",
+        "iconId": "icon_1781287940640",
+        "label": "Itch.io"
+      }
+    ],
+    "team": [
+      "team_1781288473204",
+      "team_1781288484094",
+      "team_1781288517796",
+      "team_1781288539155",
+      "team_1781288548630",
+      "team_1781288556865",
+      "team_1781288573542"
+    ],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781287940640",
+      "icon_1781289936906"
+    ],
+    "date": "2026-06-12T18:47:33.979Z"
   }
 ]
