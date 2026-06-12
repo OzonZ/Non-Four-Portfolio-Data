@@ -225,6 +225,11 @@
       "name": "Mace Smash Ground",
       "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_mace_smash_ground_1781288701961.ogg",
       "volume": 60
+    },
+    {
+      "id": "snd_1781288760164",
+      "name": "Wind Burst",
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_wind_burst_1781288760164.mp3"
     }
   ]
 }
