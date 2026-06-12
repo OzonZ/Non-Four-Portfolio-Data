@@ -9,13 +9,13 @@
   },
   "categories": {
     "game": {
-      "name": "Game"
+      "name": "GAME"
     },
     "mod": {
-      "name": "Minecraft-Mod"
+      "name": "MOD"
     },
     "3d": {
-      "name": "3D-Model"
+      "name": "3D"
     }
   },
   "socials": [],
@@ -25,5 +25,13 @@
   "profileFit": "cover",
   "profilePos": "center",
   "bgSize": "cover",
-  "bgPos": "center"
+  "bgPos": "center",
+  "icons": [
+    {
+      "id": "icon_1781287940640",
+      "name": "Itch.io",
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/icon_itch_io_1781287940640.png"
+    }
+  ],
+  "teams": []
 }
