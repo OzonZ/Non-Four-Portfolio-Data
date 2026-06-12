@@ -9,19 +9,65 @@
   },
   "categories": {
     "game": {
-      "name": "GAME"
+      "name": "GAME",
+      "iconId": "icon_1781288179202"
     },
     "mod": {
-      "name": "MOD"
+      "name": "MOD",
+      "iconId": "icon_1781288108431"
     },
     "3d": {
-      "name": "3D"
+      "name": "3D",
+      "iconId": "icon_1781288132650"
     }
   },
-  "socials": [],
+  "socials": [
+    {
+      "name": "Itch.io",
+      "url": "https://aritsiaserlet.itch.io/",
+      "iconId": "icon_1781287940640",
+      "icon": ""
+    },
+    {
+      "name": "Modrinth",
+      "url": "https://modrinth.com/user/Aritsiaserlet",
+      "iconId": "icon_1781288096980",
+      "icon": ""
+    },
+    {
+      "name": "Curseforge",
+      "url": "https://www.curseforge.com/members/aritsiaserlet/projects",
+      "iconId": "icon_1781288108431",
+      "icon": ""
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/Aritsiaserlet",
+      "iconId": "icon_1781288120167",
+      "icon": ""
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/users/970873503677046825",
+      "iconId": "icon_1781288077897",
+      "icon": ""
+    },
+    {
+      "name": "Discord Server",
+      "url": "https://discord.gg/DSwaCSrtrc",
+      "iconId": "icon_1781288077897",
+      "icon": ""
+    },
+    {
+      "name": "HamsterHub Profile",
+      "url": "https://hamsterhub.co/profile/orbk",
+      "iconId": "icon_1781288205836",
+      "icon": ""
+    }
+  ],
   "soundAssignments": {},
-  "profileImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/profile_1781287244259.png",
-  "backgroundImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/bg_1781287253057.png",
+  "profileImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/profile_1781288361812.mp4",
+  "backgroundImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/bg_1781288377361.png",
   "profileFit": "cover",
   "profilePos": "center",
   "bgSize": "cover",
