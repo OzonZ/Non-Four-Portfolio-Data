@@ -270,7 +270,8 @@
     {
       "id": "snd_1781289055396",
       "name": "GAMEOVER",
-      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_gameover_1781289055396.mp3"
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_gameover_1781289055396.mp3",
+      "volume": 26
     }
   ]
 }
