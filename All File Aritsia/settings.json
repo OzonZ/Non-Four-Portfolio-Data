@@ -69,7 +69,62 @@
       "icon": ""
     }
   ],
-  "soundAssignments": {},
+  "soundAssignments": {
+    "game_hit": [
+      [
+        "snd_1781288685261",
+        "snd_1781288701961"
+      ],
+      [
+        "snd_1781288760164"
+      ]
+    ],
+    "game_score": [
+      [
+        "snd_1781288989277"
+      ]
+    ],
+    "game_combo": [
+      []
+    ],
+    "game_dive": [
+      []
+    ],
+    "game_boost": [
+      [
+        "snd_1781289115318"
+      ]
+    ],
+    "game_miss": [
+      [
+        "snd_1781288831801"
+      ]
+    ],
+    "game_gameover": [
+      [
+        "snd_1781289055396"
+      ]
+    ],
+    "game_bgm": [
+      [],
+      []
+    ],
+    "lobby_bgm": [
+      []
+    ],
+    "portfolio_like": [
+      []
+    ],
+    "portfolio_login": [
+      []
+    ],
+    "portfolio_btn": [
+      []
+    ],
+    "portfolio_bgm": [
+      []
+    ]
+  },
   "profileImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/profile_1781288361812.mp4",
   "backgroundImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/bg_1781288377361.png",
   "profileFit": "cover",
@@ -278,5 +333,8 @@
       "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_wind_1781289149652.ogg",
       "volume": 8
     }
-  ]
+  ],
+  "soundBtnIconId": "icon_1781288164484",
+  "gameCategoryIconId": "icon_1781288179202",
+  "portfolioCategoryIconId": "icon_1781288190669"
 }
