@@ -106,11 +106,17 @@
       ]
     ],
     "game_bgm": [
-      [],
-      []
+      [
+        "snd_1781288966623"
+      ],
+      [
+        "snd_1781289149652"
+      ]
     ],
     "lobby_bgm": [
-      []
+      [
+        "snd_1781289149652"
+      ]
     ],
     "portfolio_like": [
       []
@@ -119,10 +125,14 @@
       []
     ],
     "portfolio_btn": [
-      []
+      [
+        "snd_1781289085531"
+      ]
     ],
     "portfolio_bgm": [
-      []
+      [
+        "snd_1781289023139"
+      ]
     ]
   },
   "profileImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/profile_1781288361812.mp4",
