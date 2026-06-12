@@ -254,6 +254,11 @@
       "name": "Game Background Music",
       "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_game_background_music_1781288966623.mp3",
       "volume": 32
+    },
+    {
+      "id": "snd_1781288989277",
+      "name": "Score UP",
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_score_up_1781288989277.wav"
     }
   ]
 }
