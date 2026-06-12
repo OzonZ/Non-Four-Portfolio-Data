@@ -5,7 +5,11 @@
     "playerSpriteLoop": true,
     "playerAttackFrames": 1,
     "playerAttackFps": 15,
-    "playerAttackLoop": false
+    "playerAttackLoop": false,
+    "fwDropChance": 30,
+    "pointsPerHit": 15,
+    "missPenalty": 5,
+    "fwIconId": ""
   },
   "categories": {
     "game": {
