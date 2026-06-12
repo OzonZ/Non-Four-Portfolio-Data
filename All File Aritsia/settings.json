@@ -212,5 +212,12 @@
       "iconId": "icon_1781288077897"
     }
   ],
-  "teamBtnIconId": "icon_1781288154150"
+  "teamBtnIconId": "icon_1781288154150",
+  "sounds": [
+    {
+      "id": "snd_1781288685261",
+      "name": "Mace Smash Air",
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/snd_mace_smash_air_1781288685261.ogg"
+    }
+  ]
 }
