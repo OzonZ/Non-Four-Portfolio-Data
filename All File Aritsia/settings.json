@@ -1,0 +1,29 @@
+{
+  "game": {
+    "playerSpriteFrames": 1,
+    "playerSpriteFps": 12,
+    "playerSpriteLoop": true,
+    "playerAttackFrames": 1,
+    "playerAttackFps": 15,
+    "playerAttackLoop": false
+  },
+  "categories": {
+    "game": {
+      "name": "Game"
+    },
+    "mod": {
+      "name": "Minecraft-Mod"
+    },
+    "3d": {
+      "name": "3D-Model"
+    }
+  },
+  "socials": [],
+  "soundAssignments": {},
+  "profileImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/profile_1781287244259.png",
+  "backgroundImage": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/bg_1781287253057.png",
+  "profileFit": "cover",
+  "profilePos": "center",
+  "bgSize": "cover",
+  "bgPos": "center"
+}
