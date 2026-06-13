@@ -86,26 +86,27 @@
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260842236_ozonz.png"
     },
     {
-        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265826779_ozonz.png",
-        "links": [
-            {
-                "label": "Play on Itch.io",
-                "url": "https://pigisclean.itch.io/bug-is-here"
-            }
-        ],
-        "desc": "You are a security system that will protect data from a company with game challenges, will you be able to protect it from viruses and Bugs?\n\n\nMember:\nChanon Thongduang - Main Coding, Artist, Producer\nSattawut Rodsaka  - Artist, Modeling, Story\nArthit Kasemsai - Game Logic Designer, Story\nThanakrit Feemuedee - Sounds, Music, Background, Design, Artist",
+        "id": 1781265829095,
         "name": "Bug Is Here by PIC",
         "cat": "ozonz",
+        "subcat": "",
+        "desc": "You are a security system that will protect data from a company with game challenges, will you be able to protect it from viruses and Bugs?\n\n\nMember:\nChanon Thongduang - Main Coding, Artist, Producer\nSattawut Rodsaka  - Artist, Modeling, Story\nArthit Kasemsai - Game Logic Designer, Story\nThanakrit Feemuedee - Sounds, Music, Background, Design, Artist",
+        "year": "2025",
+        "aiSummary": "Security game protects data from viruses and bugs",
+        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265826779_ozonz.png",
         "tags": [
-            "ITCH.IO"
+            "ITCH.IO",
+            "First Game Created"
+        ],
+        "links": [
+            {
+                "url": "https://pigisclean.itch.io/bug-is-here",
+                "label": "Play on Itch.io"
+            }
         ],
         "team": [],
-        "date": "2026-06-12T12:03:49.095Z",
-        "aiSummary": "Security game protects data from viruses and bugs",
-        "id": 1781265829095,
-        "subcat": "",
-        "year": "2025",
-        "tools": []
+        "tools": [],
+        "date": "2026-06-12T12:03:49.095Z"
     },
     {
         "date": "2026-06-12T11:44:40.139Z",
