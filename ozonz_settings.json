@@ -23,6 +23,12 @@
             "link": "https://hamsterhub.co/profile/eaya",
             "iconType": "image",
             "iconVal": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/contact_1781332395553_ozonz.webp"
+        },
+        {
+            "name": "Itchio",
+            "link": "https://ozonz1.itch.io/",
+            "iconType": "svg",
+            "iconVal": "https://static.itch.io/images/itchio-textless-black.svg"
         }
     ]
 }
