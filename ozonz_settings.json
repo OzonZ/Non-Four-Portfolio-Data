@@ -30,5 +30,14 @@
             "iconType": "image",
             "iconVal": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/contact_1781332395553_ozonz.webp"
         }
-    ]
+    ],
+    "githubProfile": {
+        "name": "Chanon Thongduang",
+        "login": "OzonZ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/255675901?v=4",
+        "bio": "",
+        "publicRepos": 4,
+        "contributions": 293,
+        "updatedAt": "2026-06-13T07:18:50.687Z"
+    }
 }
