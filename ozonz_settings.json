@@ -29,6 +29,12 @@
             "link": "https://hamsterhub.co/profile/eaya",
             "iconType": "image",
             "iconVal": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/contact_1781332395553_ozonz.webp"
+        },
+        {
+            "name": "ฟหก",
+            "link": "https://ozonz1.itch.io/",
+            "iconType": "material",
+            "iconVal": "ฟหก"
         }
     ],
     "githubProfile": {
