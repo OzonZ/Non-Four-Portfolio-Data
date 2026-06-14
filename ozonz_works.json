@@ -125,7 +125,9 @@
                 "label": "Play on Itch.io"
             }
         ],
-        "team": [],
+        "team": [
+            "team_1781288473204"
+        ],
         "tools": [],
         "date": "2026-06-12T12:03:49.095Z"
     },
