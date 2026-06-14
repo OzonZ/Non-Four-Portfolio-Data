@@ -81,13 +81,14 @@
         "date": "2026-06-12T10:25:52.735Z"
     },
     {
-        "aiSummary": "Streamlined Camp Management: Register, Schedule, Track",
-        "team": [],
-        "date": "2026-06-12T10:40:17.752Z",
+        "id": 1781260817752,
         "name": "Camp System",
-        "desc": "This dynamic Camp System streamlines registration, scheduling, and participant management for efficient camp operations. Built with JavaScript, it offers a robust and intuitive platform for administrators.",
         "cat": "ozonz",
-        "tools": [],
+        "subcat": "",
+        "desc": "This dynamic Camp System streamlines registration, scheduling, and participant management for efficient camp operations. Built with JavaScript, it offers a robust and intuitive platform for administrators.",
+        "year": "",
+        "aiSummary": "Streamlined Camp Management: Register, Schedule, Track",
+        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260842236_ozonz.png",
         "tags": [
             "JAVASCRIPT",
             "GITHUB",
@@ -99,9 +100,11 @@
                 "label": "Website"
             }
         ],
-        "subcat": "",
-        "id": 1781260817752,
-        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260842236_ozonz.png"
+        "team": [
+            "team_1781288473204"
+        ],
+        "tools": [],
+        "date": "2026-06-12T10:40:17.752Z"
     },
     {
         "id": 1781265829095,
