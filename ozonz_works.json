@@ -166,6 +166,13 @@
         "year": "",
         "aiSummary": "Track shop income/expenses for clear insights.",
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265547373_ozonz.png",
+        "images": [
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265547373_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455794290_0_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455797018_1_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455799251_2_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455801185_3_ozonz.png"
+        ],
         "tags": [
             "TYPESCRIPT",
             "GITHUB",
