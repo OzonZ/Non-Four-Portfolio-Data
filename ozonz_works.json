@@ -132,26 +132,29 @@
         "date": "2026-06-12T12:03:49.095Z"
     },
     {
-        "date": "2026-06-12T11:44:40.139Z",
-        "team": [],
-        "aiSummary": "Track shop income/expenses for clear insights.",
         "id": 1781264680139,
+        "name": "Shop Income Tracker",
+        "cat": "ozonz",
+        "subcat": "",
+        "desc": "This TypeScript application empowers shop owners to efficiently track income and expenses, gaining clear financial insights. Its robust codebase is readily available on GitHub.",
+        "year": "",
+        "aiSummary": "Track shop income/expenses for clear insights.",
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265547373_ozonz.png",
         "tags": [
             "TYPESCRIPT",
             "GITHUB"
         ],
-        "tools": [],
-        "cat": "ozonz",
-        "desc": "This TypeScript application empowers shop owners to efficiently track income and expenses, gaining clear financial insights. Its robust codebase is readily available on GitHub.",
-        "name": "Shop Income Tracker",
-        "subcat": "",
         "links": [
             {
-                "label": "Website",
-                "url": "https://project-urara.web.app/login"
+                "url": "https://project-urara.web.app/login",
+                "label": "Website"
             }
-        ]
+        ],
+        "team": [
+            "team_1781288473204"
+        ],
+        "tools": [],
+        "date": "2026-06-12T11:44:40.139Z"
     },
     {
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781266022431_ozonz.png",
