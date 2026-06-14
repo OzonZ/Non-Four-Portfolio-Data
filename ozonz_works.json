@@ -104,6 +104,12 @@
         "year": "",
         "aiSummary": "Streamlined Camp Management: Register, Schedule, Track",
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260842236_ozonz.png",
+        "images": [
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260842236_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455674385_0_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455677044_1_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455679198_2_ozonz.png"
+        ],
         "tags": [
             "JAVASCRIPT",
             "GITHUB",
