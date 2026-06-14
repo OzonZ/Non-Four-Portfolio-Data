@@ -136,6 +136,11 @@
         "year": "2025",
         "aiSummary": "Security game protects data from viruses and bugs",
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265826779_ozonz.png",
+        "images": [
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781265826779_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455732251_0_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455735102_1_ozonz.png"
+        ],
         "tags": [
             "ITCH.IO",
             "First Game Created"
