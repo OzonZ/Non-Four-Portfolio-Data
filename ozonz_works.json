@@ -189,27 +189,33 @@
         "date": "2026-06-12T12:07:05.546Z"
     },
     {
+        "id": 1781266161901,
+        "name": "Non Lea",
+        "cat": "ozonz",
+        "subcat": "",
+        "desc": "What if you are the guy who has Heatstroke ,having only 2 minutes to live, but he imagine that he is hero who needs to lick citizens to safe them from the heat before he dies ?\n\nControls:\n\nMovement : hold click , to summon your tongue ,then rotate your mouse to move around the city (if you found rocks or garbage, hold and move your mouse backward)\nLick mode : press F\n\nRefill water : press E + hold your mouse on water machines/water pillar",
+        "year": "",
+        "aiSummary": "Lick Them All",
+        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781266159335_ozonz.png",
         "tags": [
             "Hamster Hub",
             "2D Artist",
             "GameJamX"
         ],
-        "tools": [],
-        "name": "Non Lea",
-        "desc": "What if you are the guy who has Heatstroke ,having only 2 minutes to live, but he imagine that he is hero who needs to lick citizens to safe them from the heat before he dies ?\n\nControls:\n\nMovement : hold click , to summon your tongue ,then rotate your mouse to move around the city (if you found rocks or garbage, hold and move your mouse backward)\nLick mode : press F\n\nRefill water : press E + hold your mouse on water machines/water pillar",
-        "cat": "ozonz",
-        "subcat": "",
         "links": [
             {
-                "label": "Play on Itch.io",
-                "url": "https://aimuanginwza007.itch.io/non-leah-licking-to-save-the-world"
+                "url": "https://aimuanginwza007.itch.io/non-leah-licking-to-save-the-world",
+                "label": "Play on Itch.io"
             }
         ],
-        "id": 1781266161901,
-        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781266159335_ozonz.png",
-        "aiSummary": "Lick Them All",
-        "date": "2026-06-12T12:09:21.901Z",
-        "team": []
+        "team": [
+            "team_1781288473204",
+            "team_1781288494670",
+            "team_1781288501879",
+            "team_1781288510097"
+        ],
+        "tools": [],
+        "date": "2026-06-12T12:09:21.901Z"
     },
     {
         "team": [],
