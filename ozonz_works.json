@@ -198,7 +198,13 @@
         "desc": "Icy Delight is a fast-paced action game where you play as an ice cream vendor in the middle of a scorching summer. People are collapsing from extreme heat, and it’s your job to save them by throwing ice cream to cool them down! \n\nGameplay Run around the map and help overheated civilians before it’s too late. Throw ice cream to reduce their heat and keep them alive, while avoiding enemies that make things even worse. But be careful even you are affected by the heat.\n\nHeat System Your character has a heat level: Throwing ice cream increases your heat Getting hit by enemies increases your heat even more \n\nIf your heat gets too high, you’ll be in danger You must manage your actions carefully to survive and save others.",
         "year": "",
         "aiSummary": "Ice cream action: save heat-struck, manage your cool.",
-        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781266022431_ozonz.png",
+        "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455929506_0_ozonz.png",
+        "images": [
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455929506_0_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455932024_1_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455935619_2_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455939367_3_ozonz.png"
+        ],
         "tags": [
             "ITCH.IO",
             "2D Artist",
@@ -206,7 +212,7 @@
         ],
         "links": [
             {
-                "url": "https://roboticscool01gmailcom.itch.io/icy-delight",
+                "url": "https://roboticscool01gmailcom.itch.io/icy-delig",
                 "label": "Play on Itch.io"
             }
         ],
