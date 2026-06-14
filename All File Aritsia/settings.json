@@ -300,6 +300,18 @@
       "name": "X",
       "link": "https://discord.com/users/1008337083141718067",
       "iconId": "icon_1781288077897"
+    },
+    {
+      "id": "team_four_new",
+      "name": "Four",
+      "link": "https://discord.com/users/970873503677046825",
+      "iconId": "icon_1781288077897"
+    },
+    {
+      "id": "team_program_new",
+      "name": "Program",
+      "link": "https://discord.com/users/795987911627374622",
+      "iconId": "icon_1781288077897"
     }
   ],
   "teamBtnIconId": "icon_1781288154150",
