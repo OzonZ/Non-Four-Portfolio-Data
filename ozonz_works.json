@@ -73,6 +73,11 @@
         "year": "",
         "aiSummary": "Discord voice playtime stats, community engagement.",
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260976906_ozonz.png",
+        "images": [
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781260976906_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455552630_0_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455555865_1_ozonz.png"
+        ],
         "tags": [
             "PYTHON",
             "GITHUB",
