@@ -8,6 +8,10 @@
         "year": "",
         "aiSummary": "Under development",
         "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781267182721_ozonz.png",
+        "images": [
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781267182721_ozonz.png",
+            "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/works/1781455471829_0_ozonz.jpg"
+        ],
         "tags": [
             "Renpy",
             "2D Artist",
