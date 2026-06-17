@@ -351,5 +351,22 @@
     ],
     "date": "2026-06-17T18:04:41.774Z",
     "year": "2024"
+  },
+  {
+    "id": 1781722683601,
+    "name": "Chingchasawan",
+    "year": "2024",
+    "cat": "3d",
+    "subcat": "building",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chingchasawan_1781722670729_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chingchasawan_1781722679944_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 12,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T18:58:03.601Z"
   }
 ]
