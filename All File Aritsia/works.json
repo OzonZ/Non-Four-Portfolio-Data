@@ -725,5 +725,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:22:58.344Z"
+  },
+  {
+    "id": 1781724294835,
+    "name": "Fruits",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/fruits_1781724280056_0.png",
+    "model": null,
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:24:54.835Z"
   }
 ]
