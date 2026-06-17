@@ -271,5 +271,21 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T17:59:55.229Z"
+  },
+  {
+    "id": 1781719292465,
+    "name": "Camellya",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/camellya_1781719283549_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/camellya_1781719287561_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T18:01:32.465Z"
   }
 ]
