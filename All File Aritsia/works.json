@@ -555,5 +555,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:11:30.282Z"
+  },
+  {
+    "id": 1781723576217,
+    "name": "Strawberry Cat",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/strawberry_cat_1781723558609_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/strawberry_cat_1781723572704_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:12:56.217Z"
   }
 ]
