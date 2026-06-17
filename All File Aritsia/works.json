@@ -453,5 +453,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:04:36.480Z"
+  },
+  {
+    "id": 1781723131998,
+    "name": "Clock",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/clock_1781723126322_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/clock_1781723129403_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:05:31.998Z"
   }
 ]
