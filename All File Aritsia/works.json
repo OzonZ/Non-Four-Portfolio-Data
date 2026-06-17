@@ -385,5 +385,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T18:59:12.855Z"
+  },
+  {
+    "id": 1781722832224,
+    "name": "Shelf",
+    "year": "2024",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/shelf_1781722820001_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/shelf_1781722829440_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:00:32.224Z"
   }
 ]
