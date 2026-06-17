@@ -589,5 +589,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:13:55.373Z"
+  },
+  {
+    "id": 1781723705672,
+    "name": "Microwave",
+    "year": "2024",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/microwave_1781723700889_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/microwave_1781723703420_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:15:05.672Z"
   }
 ]
