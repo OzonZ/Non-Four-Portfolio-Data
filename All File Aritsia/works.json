@@ -487,5 +487,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:06:47.360Z"
+  },
+  {
+    "id": 1781723283954,
+    "name": "Table",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/table_1781723266423_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/table_1781723280928_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:08:03.954Z"
   }
 ]
