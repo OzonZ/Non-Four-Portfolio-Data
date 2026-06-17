@@ -319,5 +319,21 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T18:03:02.546Z"
+  },
+  {
+    "id": 1781719481774,
+    "name": "Barrett",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/barrett_1781719468664_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/barrett_1781719477599_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 47,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T18:04:41.774Z"
   }
 ]
