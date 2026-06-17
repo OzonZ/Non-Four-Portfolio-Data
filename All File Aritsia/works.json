@@ -436,5 +436,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:03:29.053Z"
+  },
+  {
+    "id": 1781723076480,
+    "name": "Flashdrive",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/flashdrive_1781723069483_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/flashdrive_1781723073426_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:04:36.480Z"
   }
 ]
