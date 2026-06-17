@@ -521,5 +521,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:09:11.954Z"
+  },
+  {
+    "id": 1781723453058,
+    "name": "Flower",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/flower_1781723435412_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/flower_1781723449416_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:10:53.058Z"
   }
 ]
