@@ -674,5 +674,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:19:46.237Z"
+  },
+  {
+    "id": 1781724033794,
+    "name": "Duck",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/duck_1781724027719_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/duck_1781724030698_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 20,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:20:33.794Z"
   }
 ]
