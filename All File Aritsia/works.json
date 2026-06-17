@@ -470,5 +470,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:05:31.998Z"
+  },
+  {
+    "id": 1781723207360,
+    "name": "Pegion Bird",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/pegion_bird_1781723200711_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/pegion_bird_1781723204046_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:06:47.360Z"
   }
 ]
