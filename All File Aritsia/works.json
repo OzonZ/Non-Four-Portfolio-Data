@@ -708,5 +708,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:22:13.107Z"
+  },
+  {
+    "id": 1781724178344,
+    "name": "Storage",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/storage_1781724173192_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/storage_1781724176153_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:22:58.344Z"
   }
 ]
