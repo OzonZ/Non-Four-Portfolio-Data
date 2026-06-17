@@ -239,5 +239,21 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T17:56:57.687Z"
+  },
+  {
+    "id": 1781719134560,
+    "name": "Patrick",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/patrick_1781719114608_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/patrick_1781719130258_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 14,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T17:58:54.560Z"
   }
 ]
