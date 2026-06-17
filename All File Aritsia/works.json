@@ -175,5 +175,21 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T17:15:48.524Z"
+  },
+  {
+    "id": 1781718258655,
+    "name": "Kunai",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/kunai_1781718242271_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/kunai_1781718256459_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 43,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T17:44:18.655Z"
   }
 ]
