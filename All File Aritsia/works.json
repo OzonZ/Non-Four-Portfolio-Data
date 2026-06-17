@@ -657,5 +657,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:18:37.884Z"
+  },
+  {
+    "id": 1781723986237,
+    "name": "Bunny Storage",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/bunny_storage_1781723978406_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/bunny_storage_1781723982210_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:19:46.237Z"
   }
 ]
