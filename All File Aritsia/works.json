@@ -287,5 +287,21 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T18:01:32.465Z"
+  },
+  {
+    "id": 1781719345860,
+    "name": "Scythe",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/scythe_1781719339234_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/scythe_1781719342308_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T18:02:25.860Z"
   }
 ]
