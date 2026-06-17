@@ -606,5 +606,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:15:05.672Z"
+  },
+  {
+    "id": 1781723754843,
+    "name": "Chicken",
+    "year": "2025",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chicken_1781723748224_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chicken_1781723751128_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:15:54.843Z"
   }
 ]
