@@ -128,57 +128,6 @@
     "year": "2026"
   },
   {
-    "id": 1781718783302,
-    "name": "Low Poly OC",
-    "cat": "3d",
-    "subcat": "character",
-    "desc": "",
-    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/low_poly_oc_1781718765565_0.png",
-    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/low_poly_oc_1781718780047_model.glb",
-    "links": [],
-    "team": [],
-    "imageFocal": 15,
-    "tools": [
-      "icon_1781288132650"
-    ],
-    "date": "2026-06-17T17:53:03.302Z",
-    "year": "2024"
-  },
-  {
-    "id": 1781716548524,
-    "name": "Chest",
-    "cat": "3d",
-    "subcat": "object",
-    "desc": "",
-    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chest_1781716531389_0.png",
-    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chest_1781717707636_model.glb",
-    "links": [],
-    "team": [],
-    "imageFocal": 80,
-    "tools": [
-      "icon_1781288132650"
-    ],
-    "date": "2026-06-17T17:15:48.524Z",
-    "year": "2025"
-  },
-  {
-    "id": 1781718258655,
-    "name": "Kunai",
-    "cat": "3d",
-    "subcat": "object",
-    "desc": "",
-    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/kunai_1781718242271_0.png",
-    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/kunai_1781718256459_model.glb",
-    "links": [],
-    "team": [],
-    "imageFocal": 43,
-    "tools": [
-      "icon_1781288132650"
-    ],
-    "date": "2026-06-17T17:44:18.655Z",
-    "year": "2024"
-  },
-  {
     "id": 1781289464721,
     "name": "Icy Delight",
     "cat": "game",
@@ -215,6 +164,57 @@
     ],
     "date": "2026-06-12T18:37:44.721Z",
     "year": "2026"
+  },
+  {
+    "id": 1781716548524,
+    "name": "Chest",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chest_1781716531389_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/chest_1781717707636_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 80,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T17:15:48.524Z",
+    "year": "2025"
+  },
+  {
+    "id": 1781718258655,
+    "name": "Kunai",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/kunai_1781718242271_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/kunai_1781718256459_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 43,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T17:44:18.655Z",
+    "year": "2024"
+  },
+  {
+    "id": 1781718783302,
+    "name": "Low Poly OC",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/low_poly_oc_1781718765565_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/low_poly_oc_1781718780047_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 15,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T17:53:03.302Z",
+    "year": "2024"
   },
   {
     "id": 1781718973600,
