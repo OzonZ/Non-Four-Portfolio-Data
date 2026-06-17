@@ -402,5 +402,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:00:32.224Z"
+  },
+  {
+    "id": 1781722873966,
+    "name": "Lamp",
+    "year": "2024",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/lamp_1781722868936_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/lamp_1781722871556_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 41,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T19:01:13.966Z"
   }
 ]
