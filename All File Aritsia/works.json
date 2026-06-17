@@ -223,5 +223,21 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T17:56:13.600Z"
+  },
+  {
+    "id": 1781719017687,
+    "name": "NuuTor",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/nuutor_1781719012544_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/nuutor_1781719015588_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-06-17T17:56:57.687Z"
   }
 ]
