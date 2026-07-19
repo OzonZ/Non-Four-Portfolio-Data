@@ -1065,5 +1065,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:17:58.199Z"
+  },
+  {
+    "id": 1784488743883,
+    "name": "Spirit House",
+    "year": "2026 2",
+    "cat": "3d",
+    "subcat": "building",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/spirit_house_1784488738035_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/spirit_house_1784488741208_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 54,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:19:03.883Z"
   }
 ]
