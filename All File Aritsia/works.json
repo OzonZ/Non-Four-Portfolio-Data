@@ -1031,5 +1031,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:13:03.569Z"
+  },
+  {
+    "id": 1784488505483,
+    "name": "Sheep",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/sheep_1784488489494_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/sheep_1784488503093_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 40,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:15:05.483Z"
   }
 ]
