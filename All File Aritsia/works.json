@@ -946,5 +946,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:08:09.777Z"
+  },
+  {
+    "id": 1784488124708,
+    "name": "Maple Tree",
+    "year": "2026 1",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/maple_tree_1784488118329_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/maple_tree_1784488121323_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:08:44.708Z"
   }
 ]
