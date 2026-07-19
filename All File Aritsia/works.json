@@ -1099,5 +1099,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:20:32.137Z"
+  },
+  {
+    "id": 1784488940372,
+    "name": "Car",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/car_1784488922719_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/car_1784488937237_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:22:20.372Z"
   }
 ]
