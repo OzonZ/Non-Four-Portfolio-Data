@@ -776,5 +776,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T18:56:18.055Z"
+  },
+  {
+    "id": 1784487412473,
+    "name": "Satellite 2",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/satellite_2_1784487406274_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/satellite_2_1784487410163_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T18:56:52.473Z"
   }
 ]
