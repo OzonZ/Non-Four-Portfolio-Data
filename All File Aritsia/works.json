@@ -810,5 +810,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T18:57:32.819Z"
+  },
+  {
+    "id": 1784487539194,
+    "name": "Spaceship 1",
+    "year": "2026 1",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/spaceship_1_1784487520757_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/spaceship_1_1784487535514_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T18:58:59.194Z"
   }
 ]
