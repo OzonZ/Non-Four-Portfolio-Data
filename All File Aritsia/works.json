@@ -1082,5 +1082,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:19:03.883Z"
+  },
+  {
+    "id": 1784488832137,
+    "name": "Ghoul",
+    "year": "2026 2",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/ghoul_1784488818710_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/ghoul_1784488827542_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 12,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:20:32.137Z"
   }
 ]
