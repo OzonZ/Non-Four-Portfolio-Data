@@ -844,5 +844,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:00:28.132Z"
+  },
+  {
+    "id": 1784487706354,
+    "name": "Prisoner",
+    "year": "2026 2",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/prisoner_1784487693225_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/prisoner_1784487702248_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 20,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:01:46.354Z"
   }
 ]
