@@ -1014,5 +1014,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:11:56.403Z"
+  },
+  {
+    "id": 1784488383569,
+    "name": "Building",
+    "year": "2026 1",
+    "cat": "3d",
+    "subcat": "building",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/building_1784488378903_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/building_1784488381353_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 68,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:13:03.569Z"
   }
 ]
