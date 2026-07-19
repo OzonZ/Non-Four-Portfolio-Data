@@ -1116,5 +1116,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:22:20.372Z"
+  },
+  {
+    "id": 1784488985143,
+    "name": "Duck State",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "creature",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/duck_state_1784488979663_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/duck_state_1784488982953_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:23:05.143Z"
   }
 ]
