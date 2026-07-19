@@ -742,5 +742,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-06-17T19:24:54.835Z"
+  },
+  {
+    "id": 1784487322062,
+    "name": "Loadout Station",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "building",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/loadout_station_1784487315274_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/loadout_station_1784487318578_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 47,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T18:55:22.062Z"
   }
 ]
