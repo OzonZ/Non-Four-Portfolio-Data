@@ -912,5 +912,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-19T19:06:16.999Z"
+  },
+  {
+    "id": 1784488013465,
+    "name": "Tree",
+    "year": "2026 1",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/tree_1784488008169_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/tree_1784488010883_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 71,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-19T19:06:53.465Z"
   }
 ]
