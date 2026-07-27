@@ -1187,5 +1187,22 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-27T12:30:00.393Z"
+  },
+  {
+    "id": 1785161480838,
+    "name": "Horse Player",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/horse_player_1785161474253_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/horse_player_1785161477305_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 18,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-27T14:11:20.838Z"
   }
 ]
