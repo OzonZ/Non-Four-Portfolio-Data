@@ -1170,5 +1170,22 @@
       "icon_1781289955373"
     ],
     "date": "2026-07-19T19:40:26.950Z"
+  },
+  {
+    "id": 1785155400393,
+    "name": "Shop Station",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "building",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/shop_station_1785155381938_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/shop_station_1785155396832_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-07-27T12:30:00.393Z"
   }
 ]
