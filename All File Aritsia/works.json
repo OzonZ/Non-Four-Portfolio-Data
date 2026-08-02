@@ -1238,5 +1238,39 @@
       "icon_1781288132650"
     ],
     "date": "2026-07-27T14:12:55.207Z"
+  },
+  {
+    "id": 1785681065215,
+    "name": "Look At The Sky",
+    "year": "2026",
+    "cat": "game",
+    "subcat": "puzzle",
+    "desc": "Dive into a chaotic mix of physics sandbox and arcade puzzle-matching! Armed with a gravity-manipulating gun, your goal is to grab falling shape-clouds and slam identical ones together to clear the screen. But beware smashing the wrong shapes together will cause a violent knockback and drain your health!\n\nAs you play, the pace relentlessly accelerates. Build up massive combo streaks to multiply your score, but be prepared as the game speed and dynamic soundtrack ramp up with your skills. When the screen gets too chaotic, fill up your energy gauge and unleash your Ultimate Skill to freeze time, trigger a stunning cinematic cutscene, and wipe out the clouds to save the day!",
+    "image": [
+      "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/look_at_the_sky_1785681051775_0.png",
+      "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/look_at_the_sky_1785681056374_1.png",
+      "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/look_at_the_sky_1785681059129_2.png",
+      "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/look_at_the_sky_1785681062263_3.png"
+    ],
+    "model": null,
+    "links": [
+      {
+        "url": "https://aritsiaserlet.itch.io/look-at-the-sky",
+        "iconId": "icon_1781287940640",
+        "label": "Itch"
+      }
+    ],
+    "team": [
+      "team_1781288484094",
+      "team_1781288539155",
+      "team_1781288573542",
+      "team_program_new"
+    ],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781287940640",
+      "icon_1781289936906"
+    ],
+    "date": "2026-08-02T14:31:05.215Z"
   }
 ]
