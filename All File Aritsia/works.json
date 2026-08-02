@@ -1273,5 +1273,22 @@
       "icon_1781289936906"
     ],
     "date": "2026-08-02T14:31:05.215Z"
+  },
+  {
+    "id": 1785683535376,
+    "name": "Railgun",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "object",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/railgun_1785683526788_0.gif",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/railgun_1785683532043_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 50,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-08-02T15:12:15.376Z"
   }
 ]
