@@ -408,5 +408,12 @@
   "addWorkImageIconId": "icon_1781369137037",
   "manageWorkDeleteIconId": "icon_1781377564657",
   "manageWorkEditIconId": "icon_1781369199495",
-  "allCategoryIconId": "icon_1785166403205"
+  "allCategoryIconId": "icon_1785166403205",
+  "lovertianIcons": [
+    {
+      "id": "px_heart_pink",
+      "name": "Pixel Pink Heart",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%20width%3D%2236%22%20height%3D%2236%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M2%202h3v1H2zM7%202h3v1H7zM1%203h5v2H1zM6%203h5v2H6zM1%205h10v2H1zM2%207h8v2H2zM3%209h6v1H3zM4%2010h4v1H4zM5%2011h2v1H5z%22%20fill%3D%22%23fd79a8%22%2F%3E%3Cpath%20d%3D%22M2%203h2v1H2zM3%204h1v1H3z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M1%202h1v1H1zM4%201h1v1H4zM7%201h1v1H7zM10%202h1v1H10zM11%203h1v4H11zM10%207h1v2H10zM9%209h1v1H9zM8%2010h1v1H8zM7%2011h1v1H7zM4%2011h1v1H4zM3%2010h1v1H3zM2%209h1v1H2zM1%207h1v2H1zM0%203h1v4H0zM5%202h2v1H5z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
+    }
+  ]
 }
