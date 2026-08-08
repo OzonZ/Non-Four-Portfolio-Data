@@ -419,6 +419,87 @@
       "id": "px_flower_sakura",
       "name": "Pixel Sakura",
       "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%20width%3D%2236%22%20height%3D%2236%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M4%201h4v2H4zM1%204h2v4H1zM9%204h2v4H9zM4%209h4v2H4z%22%20fill%3D%22%23ff9ff3%22%2F%3E%3Cpath%20d%3D%22M3%202h2v2H3zM7%202h2v2H7zM3%208h2v2H3zM7%208h2v2H7zM4%204h4v4H4z%22%20fill%3D%22%23fd79a8%22%2F%3E%3Cpath%20d%3D%22M5%205h2v2H5z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M4%200h4v1H4zM8%201h1v1H8zM9%202h1v2H9zM11%204h1v4H11zM9%208h1v2H9zM8%2010h1v1H8zM4%2011h4v1H4zM3%2010h1v1H3zM2%208h1v2H2zM0%204h1v4H0zM2%202h1v2H2zM3%201h1v1H3z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_heart_sparkle",
+      "name": "Sparkle Heart",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%20width%3D%2228%22%20height%3D%2228%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M2%202h3v1H2zM7%202h3v1H7zM1%203h5v2H1zM6%203h5v2H6zM1%205h10v2H1zM2%207h8v2H2zM3%209h6v1H3zM4%2010h4v1H4zM5%2011h2v1H5z%22%20fill%3D%22%23fd79a8%22%2F%3E%3Cpath%20d%3D%22M2%203h2v1H2zM3%204h1v1H3z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M0%200h2v2H0zM1%201h2v2H1z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M1%202h1v1H1zM4%201h1v1H4zM7%201h1v1H7zM10%202h1v1H10zM11%203h1v4H11zM10%207h1v2H10zM9%209h1v1H9zM8%2010h1v1H8zM7%2011h1v1H7zM4%2011h1v1H4zM3%2010h1v1H3zM2%209h1v1H2zM1%207h1v2H1zM0%203h1v4H0zM5%202h2v1H5z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_heart_red",
+      "name": "Red Heart",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%20width%3D%2228%22%20height%3D%2228%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M2%202h3v1H2zM7%202h3v1H7zM1%203h5v2H1zM6%203h5v2H6zM1%205h10v2H1zM2%207h8v2H2zM3%209h6v1H3zM4%2010h4v1H4zM5%2011h2v1H5z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M2%203h2v1H2zM3%204h1v1H3z%22%20fill%3D%22%23ff7675%22%2F%3E%3Cpath%20d%3D%22M1%202h1v1H1zM4%201h1v1H4zM7%201h1v1H7zM10%202h1v1H10zM11%203h1v4H11zM10%207h1v2H10zM9%209h1v1H9zM8%2010h1v1H8zM7%2011h1v1H7zM4%2011h1v1H4zM3%2010h1v1H3zM2%209h1v1H2zM1%207h1v2H1zM0%203h1v4H0zM5%202h2v1H5z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_heart_dark",
+      "name": "Dark Red Heart",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2012%22%20width%3D%2228%22%20height%3D%2228%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M2%202h3v1H2zM7%202h3v1H7zM1%203h5v2H1zM6%203h5v2H6zM1%205h10v2H1zM2%207h8v2H2zM3%209h6v1H3zM4%2010h4v1H4zM5%2011h2v1H5z%22%20fill%3D%22%23c0392b%22%2F%3E%3Cpath%20d%3D%22M2%203h2v1H2zM3%204h1v1H3z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M1%202h1v1H1zM4%201h1v1H4zM7%201h1v1H7zM10%202h1v1H10zM11%203h1v4H11zM10%207h1v2H10zM9%209h1v1H9zM8%2010h1v1H8zM7%2011h1v1H7zM4%2011h1v1H4zM3%2010h1v1H3zM2%209h1v1H2zM1%207h1v2H1zM0%203h1v4H0zM5%202h2v1H5z%22%20fill%3D%22%231a2a3a%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_heart_double",
+      "name": "Double Hearts",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2014%2012%22%20width%3D%2230%22%20height%3D%2226%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%202h3v1H1zM5%202h3v1H5zM0%203h9v3H0zM1%206h7v2H1zM2%208h5v1H2zM3%209h3v1H3zM4%2010h1v1H4z%22%20fill%3D%22%23fd79a8%22%2F%3E%3Cpath%20d%3D%22M8%201h3v1H8zM12%201h2v1H12zM7%202h7v3H7zM8%205h5v2H8zM9%207h3v1H9z%22%20fill%3D%22%23e84393%22%2F%3E%3Cpath%20d%3D%22M1%203h1v1H1z%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_heart_exclaim",
+      "name": "Heart Exclaim",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2010%2012%22%20width%3D%2224%22%20height%3D%2228%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%201h3v1H1zM6%201h3v1H6zM0%202h10v3H0zM1%205h8v2H1zM2%207h6v1H2zM3%208h4v1H3zM4%209h2v1H4z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M4%2010h2v2H4z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M1%202h1v1H1z%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_letter_envelope",
+      "name": "Envelope",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2014%2010%22%20width%3D%2230%22%20height%3D%2222%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%201h12v8H1z%22%20fill%3D%22%23fffef5%22%2F%3E%3Cpath%20d%3D%22M2%202h10v1H2zM3%203h8v1H3zM4%204h6v1H4zM5%205h4v1H5z%22%20fill%3D%22%23ffeaa7%22%2F%3E%3Cpath%20d%3D%22M6%204h2v2H6zM5%205h4v1H5z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M0%200h14v1H0zM0%209h14v1H0zM0%200h1v10H0zM13%200h1v10H13z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_sparkle_blue",
+      "name": "Blue Sparkle",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%209%209%22%20width%3D%2226%22%20height%3D%2226%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M4%200h1v9H4zM0%204h9v1H0z%22%20fill%3D%22%2354a0ff%22%2F%3E%3Cpath%20d%3D%22M3%203h3v3H3z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M2%202h1v1H2zM6%202h1v1H6zM2%206h1v1H2zM6%206h1v1H6z%22%20fill%3D%22%2374b9ff%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_sparkle_gold",
+      "name": "Gold Sparkle",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%209%209%22%20width%3D%2226%22%20height%3D%2226%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M4%200h1v9H4zM0%204h9v1H0z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M3%203h3v3H3z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M2%202h1v1H2zM6%202h1v1H6zM2%206h1v1H2zM6%206h1v1H6z%22%20fill%3D%22%23ffdd59%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_rose",
+      "name": "Red Rose",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2012%22%20width%3D%2226%22%20height%3D%2228%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M3%201h5v4H3z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M4%202h2v2H4z%22%20fill%3D%22%23ff7675%22%2F%3E%3Cpath%20d%3D%22M5%205h1v4H5z%22%20fill%3D%22%2310ac84%22%2F%3E%3Cpath%20d%3D%22M3%207h2v2H3zM6%206h2v2H6z%22%20fill%3D%22%231dd1a1%22%2F%3E%3Cpath%20d%3D%22M3%200h5v1H3zM8%201h1v4H8zM3%205h5v1H3zM2%201h1v4H2zM5%209h1v3H5zM2%207h1v1H2zM3%209h2v1H3zM6%206h1v1H6zM8%208h1v1H8z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_sunflower",
+      "name": "Sunflower",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2011%22%20width%3D%2226%22%20height%3D%2226%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M4%200h3v11H4zM0%204h11v3H0zM2%202h7v7H2z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M4%204h3v3H4z%22%20fill%3D%22%238395a7%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_ribbon",
+      "name": "Ribbon",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2013%209%22%20width%3D%2230%22%20height%3D%2221%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%202h4v4H1zM8%202h4v4H8z%22%20fill%3D%22%23ff9ff3%22%2F%3E%3Cpath%20d%3D%22M5%203h3v3H5z%22%20fill%3D%22%23fd79a8%22%2F%3E%3Cpath%20d%3D%22M6%204h1v1H6z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M2%206h2v2H2zM9%206h2v2H9z%22%20fill%3D%22%23e84393%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_dove",
+      "name": "White Dove",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%2010%22%20width%3D%2228%22%20height%3D%2224%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M2%201h5v4H2zM6%204h5v4H6zM3%205h7v3H3z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M8%202h1v1H8z%22%20fill%3D%22%232d3436%22%2F%3E%3Cpath%20d%3D%22M11%205h1v2H11z%22%20fill%3D%22%23ff9f43%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_ring",
+      "name": "Diamond Ring",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2012%22%20width%3D%2226%22%20height%3D%2228%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M4%201h3v3H4z%22%20fill%3D%22%2348dbfb%22%2F%3E%3Cpath%20d%3D%22M5%202h1v1H5z%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M2%205h7v5H2z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M4%207h3v2H4z%22%20fill%3D%22%23fffef5%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_moon",
+      "name": "Crescent Moon",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2010%2010%22%20width%3D%2224%22%20height%3D%2224%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M3%201h4v1H3zM2%202h3v1H2zM1%203h3v4H1zM2%207h3v1H2zM3%208h4v1H3z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M3%203h1v1H3z%22%20fill%3D%22%23fffef5%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_gift",
+      "name": "Gift Box",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2011%22%20width%3D%2226%22%20height%3D%2226%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%201h9v9H1z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M5%201h1v9H5zM1%205h9v1H1z%22%20fill%3D%22%23ee5253%22%2F%3E%3Cpath%20d%3D%22M3%200h5v1H3z%22%20fill%3D%22%23ff6b6b%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "px_star",
+      "name": "Gold Star",
+      "url": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%2011%22%20width%3D%2226%22%20height%3D%2226%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M5%201h1v2H5zM4%203h3v2H4zM1%204h9v2H1zM2%206h7v2H2zM3%208h2v2H3zM6%208h2v2H6z%22%20fill%3D%22%23feca57%22%2F%3E%3Cpath%20d%3D%22M5%202h1v1H5zM4%204h1v1H4z%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fsvg%3E"
     }
-  ]
+  ],
+  "lovertianEnvelopeSealEmoji": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2014%2010%22%20width%3D%2230%22%20height%3D%2222%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%201h12v8H1z%22%20fill%3D%22%23fffef5%22%2F%3E%3Cpath%20d%3D%22M2%202h10v1H2zM3%203h8v1H3zM4%204h6v1H4zM5%205h4v1H5z%22%20fill%3D%22%23ffeaa7%22%2F%3E%3Cpath%20d%3D%22M6%204h2v2H6zM5%205h4v1H5z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M0%200h14v1H0zM0%209h14v1H0zM0%200h1v10H0zM13%200h1v10H13z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E"
 }
