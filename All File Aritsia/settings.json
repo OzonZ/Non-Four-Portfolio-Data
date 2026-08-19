@@ -504,6 +504,16 @@
   "lovertianEnvelopeSealEmoji": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2014%2010%22%20width%3D%2230%22%20height%3D%2222%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M1%201h12v8H1z%22%20fill%3D%22%23fffef5%22%2F%3E%3Cpath%20d%3D%22M2%202h10v1H2zM3%203h8v1H3zM4%204h6v1H4zM5%205h4v1H5z%22%20fill%3D%22%23ffeaa7%22%2F%3E%3Cpath%20d%3D%22M6%204h2v2H6zM5%205h4v1H5z%22%20fill%3D%22%23e74c3c%22%2F%3E%3Cpath%20d%3D%22M0%200h14v1H0zM0%209h14v1H0zM0%200h1v10H0zM13%200h1v10H13z%22%20fill%3D%22%232d3436%22%2F%3E%3C%2Fsvg%3E",
   "lovertianEmojis": [],
   "lovertianYoutubeUrl": "https://www.youtube.com/watch?v=8k6C_3Q4S1o",
-  "lovertianPhotoLibrary": [],
-  "lovertianMemoryPhotos": []
+  "lovertianPhotoLibrary": [
+    {
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/lovertian-photos/photo-1787139510180.jpg",
+      "name": "Photobooth 101"
+    }
+  ],
+  "lovertianMemoryPhotos": [
+    {
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/lovertian-photos/photo-1787139510180.jpg",
+      "caption": "Photobooth 101"
+    }
+  ]
 }
