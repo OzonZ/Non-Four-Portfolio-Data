@@ -1289,6 +1289,24 @@
     "tools": [
       "icon_1781288132650"
     ],
-    "date": "2026-08-02T15:12:15.376Z"
+    "date": "2026-08-02T15:12:15.376Z",
+    "starred": true
+  },
+  {
+    "id": 1788787106176,
+    "name": "Tian OC",
+    "year": "2026",
+    "cat": "3d",
+    "subcat": "character",
+    "desc": "",
+    "image": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/tian_oc_1788787098754_0.png",
+    "model": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/tian_oc_1788787102169_model.glb",
+    "links": [],
+    "team": [],
+    "imageFocal": 9,
+    "tools": [
+      "icon_1781288132650"
+    ],
+    "date": "2026-09-07T13:18:26.176Z"
   }
 ]
