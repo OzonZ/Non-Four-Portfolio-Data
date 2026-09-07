@@ -253,6 +253,12 @@
       "name": "Star Active",
       "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/icon_star_active_1788789583114.png",
       "cat": "web"
+    },
+    {
+      "id": "icon_1788789596116",
+      "name": "Star Inactive",
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/icon_star_inactive_1788789596116.png",
+      "cat": "web"
     }
   ],
   "teams": [
