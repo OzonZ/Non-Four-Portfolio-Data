@@ -528,5 +528,6 @@
       "caption": "101"
     }
   ],
-  "manageWorkStarActiveIconId": "icon_1788789583114"
+  "manageWorkStarActiveIconId": "icon_1788789583114",
+  "manageWorkStarInactiveIconId": "icon_1788789596116"
 }
