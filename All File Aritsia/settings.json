@@ -23,6 +23,9 @@
     "3d": {
       "name": "3D",
       "iconId": "icon_1781288132650"
+    },
+    "animation": {
+      "name": "ANIMATION"
     }
   },
   "socials": [
@@ -258,6 +261,12 @@
       "id": "icon_1788789596116",
       "name": "Star Inactive",
       "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/icon_star_inactive_1788789596116.png",
+      "cat": "web"
+    },
+    {
+      "id": "icon_1789843418964",
+      "name": "Animation",
+      "url": "https://raw.githubusercontent.com/OzonZ/Non-Four-Portfolio-Data/main/All%20File%20Aritsia/works/icon_animation_1789843418964.png",
       "cat": "web"
     }
   ],
